@@ -1,4 +1,4 @@
-# wanted-pre-onboarding-backend
+# SpringMini
 커밋 컨벤션
 
 > Commit Type
